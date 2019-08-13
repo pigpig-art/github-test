@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.sidebar{
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    right: 0;
+    width: 34px;
+    height: 100%;
+    background-color: #595656;
+    }
+.header{
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    padding:40px 70px 26px;
+}
+
+
+.header .header-left .header-left{
+
+}
+.header .header-left .header-left .header-left-a{}
+.header .header-middle{}
+.header .header-middle .header-middle-input{}
+.header .header-middle .header-middle-text{}
+.header .header-right{}
+.header .header-right .nav{}
+.header .header-right .nav .iconfont icon-dianhua{}
+.header .header-right .nav .iconfont  icon-kefu{}
+.header .header-right .nav .nav-a{}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .header a:not("nav-a"){
+   text-decoration: none;
+}
+.header-left h1 > a{
+    color:#FF734D;
+}
+.header-middle{
+    
+}
+.header-middle input{
+    width: 240px;
+    height: 34px;
+    /* color: #AEAEAE; */
+    /* font-size: 16px;
+}
+.header-middle input:focus{
+    outline: none;
+}
+.text{
+    color: #AEAEAE;
+    
+}
+.header-middle-text span > a,.header-middle-text span{
+    color: #AEAEAE;
+    font-size: 14px;
+}
+.nav :nth-child(2),.nav :nth-child(3),.nav-a{
+    color: #737373;
+
+} */ 
