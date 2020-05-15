@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+/* css1测试 */
 .sidebar{
     position: absolute;
     z-index: 2;
@@ -71,7 +72,6 @@ background-color: #FF6A00;
     width: 80px;
     height: 34px;
     background-color: #FF6A00;
-    /* border: 1px solid #FF6A00; */
     color:#FFFFFF; 
     text-align: center;
     line-height: 34px;
@@ -229,9 +229,6 @@ background-color: #FF6A00;
 .icon-dunpai,.icon-trophy,.icon-xiangji,.icon-shijian{
     color: #FF734D;
     font-size: 50px;
-}
-.footer-right{
-    
 }
 .footer1-a,.footer1-a1{
     text-decoration: none;
