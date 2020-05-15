@@ -44,19 +44,7 @@
     color: #737373;
 
 }
-/* .login{
-    font-size: 15px;
-    margin: 0 0 0 230px;
-} */
-/* .h3{
-    font-size: 15px;
-    font-weight: bold;
-    line-height: 40px;
-    display: block;
-    margin: 0 0 -5px;
-    padding: 0 15px;
-    color: #fff;
-} */
+
 .nav-a:hover,.login-li a:hover{
     color:#FF734D;
  }
@@ -87,19 +75,3 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
-/* h3{
-    font-size: 15px;
-    font-weight: bold;
-    line-height: 40px;
-    display: block;
-    margin: 0 0 -5px;
-    padding: 0 15px;
-    color: #fff;
-} */
-/* .login{
-    position: absolute;
-    z-index: 999;
-    top: 40px;
-    left: 0;
-    width: 230px;
-} */
